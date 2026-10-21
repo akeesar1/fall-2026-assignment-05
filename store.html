@@ -1,1 +1,46 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./src/styles/main.css" />
+  <script type="module" src="./src/main.js"></script>
+  <meta name="description" content="Shop wearable technology, laptops, tablets, and VR headsets." />
+  <title>Shop TechNest</title>
+</head>
+<body>
+<header>
+  <div class="container nav">
+    <a class="brand" href="./index.html">TECHNEST</a>
+    <nav aria-label="Main navigation">
+      <a href="./index.html">Home</a>
+      <a href="./about.html">About</a>
+      <a href="./store.html">Shop</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <section class="intro">
+    <p class="eyebrow">THE TECH COLLECTION</p>
+    <h1>Find your next device.</h1>
+    <p>Explore 15 technology products across wearables, computers, tablets, and VR.</p>
+  </section>
+  <section>
+    <div class="store-info"><strong>Our products</strong><span id="result-count" aria-live="polite">Loading products…</span></div>
+    <div id="product-grid" class="products" aria-live="polite" aria-label="Store products"></div>
+    <nav class="pagination" aria-label="Product pagination">
+      <button class="button" id="previous-page" type="button" disabled>Previous</button>
+      <span id="page-indicator" aria-live="polite">Page 1 of 3</span>
+      <button class="button" id="next-page" type="button">Next</button>
+    </nav>
+  </section>
+</main>
+<footer>
+  <div class="container footer">
+    <p><strong>TechNest</strong> — Technology for everyday life.</p>
+    <p><a href="./index.html">Home</a> · <a href="./about.html">About</a> · <a href="./store.html">Shop</a></p>
+    <small>© <span data-year>2026</span> TechNest</small>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Fitbit Charge 6",
+    "price": 159.95,
+    "category": "Wearables",
+    "description": "Track workouts, heart rate, sleep, and daily activity with a lightweight fitness band.",
+    "imageUrl": "./images/fitbit.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Air 13-inch",
+    "price": 999.0,
+    "category": "Laptops",
+    "description": "A thin, lightweight laptop for classes, creative projects, and everyday productivity.",
+    "imageUrl": "./public/images/MacBookAir.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPad Air",
+    "price": 599.0,
+    "category": "Tablets",
+    "description": "A versatile tablet for handwritten notes, streaming, sketching, and multitasking.",
+    "imageUrl": "./public/images/IpadAir.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Meta Quest 3S",
+    "price": 299.99,
+    "category": "VR & Gaming",
+    "description": "Step into immersive games, virtual worlds, and mixed-reality experiences.",
+    "imageUrl": "./public/images/Quest3s.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fitbit Inspire 3",
+    "price": 99.95,
+    "category": "Wearables",
+    "description": "A simple fitness tracker with activity, sleep, and wellness insights.",
+    "imageUrl": "./public/images/Inspire3.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro 14-inch",
+    "price": 1599.0,
+    "category": "Laptops",
+    "description": "A powerful portable workstation for demanding apps, development, and editing.",
+    "imageUrl": "./public/images/MacBookPro14.jpg"
+  },
+  {
+    "id": 7,
+    "name": "iPad mini",
+    "price": 499.0,
+    "category": "Tablets",
+    "description": "A compact tablet that is easy to carry between classes and on the go.",
+    "imageUrl": "./public/images/iPadmini.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Meta Quest 3",
+    "price": 499.99,
+    "category": "VR & Gaming",
+    "description": "Explore detailed virtual environments with responsive mixed-reality controls.",
+    "imageUrl": "./public/images/Quest3.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Apple Watch SE",
+    "price": 249.0,
+    "category": "Wearables",
+    "description": "Stay connected and keep an eye on workouts and activity throughout the day.",
+    "imageUrl": "./public/images/WatchSE.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1399.0,
+    "category": "Laptops",
+    "description": "A business-ready laptop built for focused work, portability, and travel.",
+    "imageUrl": "./public/images/ThinkPadX1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "iPad Pro 11-inch",
+    "price": 999.0,
+    "category": "Tablets",
+    "description": "A bright, responsive tablet for creative work, media, and productivity.",
+    "imageUrl": "./public/images/iPadPro.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "PlayStation VR2",
+    "price": 549.99,
+    "category": "VR & Gaming",
+    "description": "Bring compatible games to life with immersive visuals and motion controls.",
+    "imageUrl": "./public/images/PlayStationVR2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Fitbit Sense 2",
+    "price": 199.95,
+    "category": "Wearables",
+    "description": "A smartwatch-style wearable with fitness tracking and wellness tools.",
+    "imageUrl": "./public/images/Sense2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "ASUS Zenbook 14",
+    "price": 899.99,
+    "category": "Laptops",
+    "description": "A compact everyday laptop for school, work, and entertainment.",
+    "imageUrl": "./public/images/Zenbook.jpg"
+  },
+  {
+    "id": 15,
+    "name": "iPad 10th Generation",
+    "price": 349.0,
+    "category": "Tablets",
+    "description": "A dependable all-purpose tablet for browsing, learning, and video calls.",
+    "imageUrl": "./public/images/iPad10.png"
+  }
+]
